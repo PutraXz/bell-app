@@ -18,7 +18,7 @@
         <div class="wrapper">
             <table class="table table-hover mt-5">
                 <thead>
-                    <th>No</th>
+                    <th>no</th>
                     <th>Jam</th>
                     <th>Senin</th>
                     <th>Selasa</th>
