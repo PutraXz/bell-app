@@ -19,3 +19,4 @@ Route::get('/', function () {
 Route::get('/bell', function (){
     return view('bell');
 });
+Route::get('days', 'App\Http\Controllers\DaysController@index');
